@@ -1,0 +1,3 @@
+[submodule "frontend/core"]
+	path = frontend/core
+	url = https://github.com/murbanbcsg/test-saas-core-frontend.git
