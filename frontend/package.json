@@ -1,0 +1,16 @@
+{
+  "name": "test-saas-sampleproject",
+  "version": "1.0.0",
+  "description": "This is a sample project with configuration and build tasks to work with SaaS Platform Core",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murbanbcsg/test-saas-project-a"
+  },
+  "author": "Nicholas Urban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murbanbcsg/test-saas-project-a/issues"
+  },
+  "homepage": "https://github.com/murbanbcsg/test-saas-project-a"
+}
